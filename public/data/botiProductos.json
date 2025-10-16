@@ -1,0 +1,29 @@
+[
+  {
+    "id": 1,
+    "codigo": "1212",
+    "codigoBarra": "7802800535569",
+    "descripcion": "PAPA KRISPO ORIGINAL 40G",
+    "origen": "Chile",
+    "stock": 10,
+    "precio": 800
+  },
+  {
+    "id": 2,
+    "codigo": "962",
+    "codigoBarra": "7804615340246",
+    "descripcion": "KROSS GOLDEN 710CC",
+    "origen": "Chile",
+    "stock": 9,
+    "precio": 1933
+  },
+  {
+    "id": 3,
+    "codigo": "1578",
+    "codigoBarra": "7506174502645",
+    "descripcion": "SNICKERS",
+    "origen": "Chile",
+    "stock": 5,
+    "precio": 336
+  }
+]

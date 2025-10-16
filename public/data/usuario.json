@@ -1,0 +1,16 @@
+[
+  {
+    "id": 1,
+    "email": "correoboti@prueba.cl",
+    "name": "UserBoti",
+    "password": "12345678",
+    "familia": "Botilleria"
+  },
+  {
+    "id": 2,
+    "email": "correoRepu@prueba.cl",
+    "name": "UserRepu",
+    "password": "12345678",
+    "familia": "Repuestos"
+  }
+]

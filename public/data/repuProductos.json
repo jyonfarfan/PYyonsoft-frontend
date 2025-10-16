@@ -1,0 +1,38 @@
+[
+  {
+    "id": 1,
+    "codigo": "0003273",
+    "codigoOriginal": "55300-1M000",
+    "descripcion": "AMOR TRAS RB LH/RH GAS TODOS 2012->",
+    "procedencia": "TAIWAN",
+    "origen": "NACIONAL",
+    "categoria": "AMORTI",
+    "precio_com": 6200,
+    "precio_ven": 11780,
+    "stock": 20
+  },
+  {
+    "id": 2,
+    "codigo": "0078",
+    "codigoOriginal": "0078",
+    "descripcion": "NEBLINERO IZQUIERDO 2006-2011",
+    "procedencia": "TAIWAN",
+    "origen": "NACIONAL",
+    "categoria": "NEBLI",
+    "precio_com": 3973,
+    "precio_ven": 9263,
+    "stock": 10
+  },
+  {
+    "id": 3,
+    "codigo": "012364",
+    "codigoOriginal": "AA100-18-100A",
+    "descripcion": "BOBINA DE ENVENDIDO",
+    "procedencia": "KOREA",
+    "origen": "NACIONAL",
+    "categoria": "TOW",
+    "precio_com": 6732,
+    "precio_ven": 12791,
+    "stock": 20
+  }
+]
